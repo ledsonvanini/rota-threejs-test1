@@ -3,4 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home1/urban866/ferramentas.maquinadaweb.com
     - /bin/cp * $DEPLOYPATH
-    - /bin/cp -R static/
+    - /bin/cp -R static/ $DEPLOYPATH
