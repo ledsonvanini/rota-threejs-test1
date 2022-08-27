@@ -1,6 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home1/urban866/ferramentas.maquinadaweb.com/rota-threejs-test1
-    - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp -R images $DEPLOYPATH
