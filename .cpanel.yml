@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/urban866/ferramentas.maquinadaweb.com
+    - export DEPLOYPATH=/home1/urban866/repositories_/RepoThreejs01
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
